@@ -55,8 +55,9 @@ body {
 
 /*header section*/
 .hero_area {
+  font-size: 20px;
   height: 98vh;
-  position: relative;
+  position: justify;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -467,7 +468,7 @@ a:focus {
 }
 
 .blog_section .box .img-box {
-  position: relative;
+  position: relative ;
 }
 
 .blog_section .box .img-box img {
